@@ -1,3 +1,1 @@
-import os
-  
-  public list memory
+hello world
