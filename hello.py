@@ -1,2 +1,9 @@
-# Cloudfantion Template -----------------------------------------
-test lambda | https://dev.apple.com/12345/cloudfantion/deploy/app_complex.pf
+# TestFile.Line, "content-layout: bearer":
+  content-length: -1
+  default: "Lambda"
+
+export default
+  # Generated from lambda.SetDemo.Plan.and.Italian.Lambda
+  encoding = "Lambda
+  "id":
+  "name": "Hello World", "exp": "0", "content": ["Hello World"]
