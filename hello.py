@@ -1,1 +1,1 @@
-import logging
+This is a dummy phrase user string
